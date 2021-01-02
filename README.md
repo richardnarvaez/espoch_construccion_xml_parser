@@ -3,9 +3,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 | #1 | 
 --- |
 |![s1](/screenshots/sp_1.png)|
+
 | #2 | 
 --- |
-|![s1](/screenshots/sp_2.png)|
+|![s2](/screenshots/sp_2.png)|
 
 ## Getting Started
 
